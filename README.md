@@ -16,6 +16,5 @@ This is a simple clock application built using Flutter, a cross-platform framewo
 
 To run this application locally, follow these steps:
 
-1. Make sure you have Flutter installed on your machine. If not, follow the installation instructions [here](https://flutter.dev/docs/get-started/install).
+Make sure you have Flutter installed on your machine. If not, follow the installation instructions.
 
-2. Clone this repository:
