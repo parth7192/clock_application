@@ -11,6 +11,8 @@ This is a simple clock application built using Flutter, a cross-platform framewo
 ## Screenshots
 
 ![Screenshot](![image](https://github.com/parth7192/clock_application/assets/142138451/842aa497-d7e0-4efb-8112-9d4851f2d233)
+![Uploading image.png…]()
+
 
 ## Getting Started
 
