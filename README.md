@@ -47,6 +47,8 @@
 
 <img src = "https://github.com/parth7192/clock_application/assets/142138451/8eb8f21a-2850-474f-a694-0198ea21d61c" width = "200">
 
+<img src = "https://github.com/parth7192/clock_application/assets/142138451/0974625c-32ca-434a-8d6b-8481c3751b0a" width = "200">
+
 ## Getting Started
 
 To run this application locally, follow these steps:
