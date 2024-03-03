@@ -1,4 +1,4 @@
-![image](https://github.com/parth7192/clock_application/assets/142138451/292b85fd-f5d9-4dd3-a298-a2a4e019a98a)# Clock App
+# Clock App
 
 ## 1. Digital Clock
 - The digital clock feature displays the current time in a clear and easy-to-read format. 
