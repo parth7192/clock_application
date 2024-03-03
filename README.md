@@ -27,7 +27,7 @@
 
 ## Screenshots
 
-<img src = "https://github.com/parth7192/clock_application/assets/142138451/842aa497-d7e0-4efb-8112-9d4851f2d233" width = "200">
+<img src = "https://github.com/parth7192/clock_application/assets/142138451/8c22b0e2-74b8-42c5-809d-d0ab27e2e6dc" width = "200">
 
 <img src = "https://github.com/parth7192/clock_application/assets/142138451/a2f9c4bb-89c8-46d2-b650-7c7429608510" width = "200">
 
