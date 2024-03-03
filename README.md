@@ -16,9 +16,7 @@
 - Additional functionalities may include lap timing, split timing, and the ability to save and share recorded time intervals for future reference or analysis.
 ## Technology Stack
 
-> Frontend     : Dart
-
-> Backend      : Dart
+> Language      : Dart
 
 > Tools        : Android Studio
 
