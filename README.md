@@ -1,4 +1,4 @@
-# Clock App
+![image](https://github.com/parth7192/clock_application/assets/142138451/292b85fd-f5d9-4dd3-a298-a2a4e019a98a)# Clock App
 
 ## 1. Digital Clock
 - The digital clock feature displays the current time in a clear and easy-to-read format. 
@@ -29,25 +29,25 @@
 
 <img src = "https://github.com/parth7192/clock_application/assets/142138451/8c22b0e2-74b8-42c5-809d-d0ab27e2e6dc" width = "200">
 
-<img src = "https://github.com/parth7192/clock_application/assets/142138451/a2f9c4bb-89c8-46d2-b650-7c7429608510" width = "200">
+<img src = "https://github.com/parth7192/clock_application/assets/142138451/e0a7f867-977d-4561-b4fd-598f54b6f492" width = "200">
 
-<img src = "https://github.com/parth7192/clock_application/assets/142138451/13639cfa-793b-4702-9514-e1765da4a8ab" width = "200">
+<img src = "https://github.com/parth7192/clock_application/assets/142138451/71ff1382-acbe-4fd9-9ca1-13ff0507a4e5" width = "200">
 
-<img src = "https://github.com/parth7192/clock_application/assets/142138451/9cf7b039-f808-4e22-90d8-9c2a6005b767" width = "200">
+<img src = "https://github.com/parth7192/clock_application/assets/142138451/077b6a93-e8c2-4f18-940c-992a9404fad5" width = "200">
 
-<img src = "https://github.com/parth7192/clock_application/assets/142138451/351a3e15-1e5e-4172-9d81-a2aed2fe1ff6" width = "200">
+<img src = "https://github.com/parth7192/clock_application/assets/142138451/f798f24f-fcc3-4ce3-b4c9-4dd19989888f" width = "200">
 
-<img src = "https://github.com/parth7192/clock_application/assets/142138451/b5c1eb67-a9d2-429c-8fd0-1803ef8e34f5" width = "200">
+<img src = "https://github.com/parth7192/clock_application/assets/142138451/7b503318-06db-425e-9df2-984f303ba58c" width = "200">
 
 <img src = "https://github.com/parth7192/clock_application/assets/142138451/e69704a1-563d-4239-a00b-1324de2feb8b" width = "200">
 
-<img src = "https://github.com/parth7192/clock_application/assets/142138451/ae186536-8ad8-4700-bb0d-44b8e6a635fa" width = "200">
-
 <img src = "https://github.com/parth7192/clock_application/assets/142138451/dba3bee2-1b82-4690-a3ef-42350a157c3b" width = "200">
 
-<img src = "https://github.com/parth7192/clock_application/assets/142138451/8eb8f21a-2850-474f-a694-0198ea21d61c" width = "200">
+<img src = "https://github.com/parth7192/clock_application/assets/142138451/ff58d531-5b33-44e9-bec5-964c2a06a483" width = "200">
 
 <img src = "https://github.com/parth7192/clock_application/assets/142138451/0974625c-32ca-434a-8d6b-8481c3751b0a" width = "200">
+
+
 
 ## Getting Started
 
