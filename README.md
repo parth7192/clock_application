@@ -41,11 +41,7 @@
 
 <img src = "https://github.com/parth7192/clock_application/assets/142138451/e69704a1-563d-4239-a00b-1324de2feb8b" width = "200">
 
-<img src = "https://github.com/parth7192/clock_application/assets/142138451/dba3bee2-1b82-4690-a3ef-42350a157c3b" width = "200">
-
 <img src = "https://github.com/parth7192/clock_application/assets/142138451/ff58d531-5b33-44e9-bec5-964c2a06a483" width = "200">
-
-<img src = "https://github.com/parth7192/clock_application/assets/142138451/0974625c-32ca-434a-8d6b-8481c3751b0a" width = "200">
 
 
 
