@@ -10,13 +10,18 @@
 - Users can choose from a variety of clock face designs, ranging from classic to modern styles, and customize the size and placement of the analogue clock widget on their device.
 - Interactive features may include the ability to set alarms or reminders directly from the analogue clock interface, as well as options for adjusting the clock's accuracy and synchronization with external time sources.
 
-## 3. Stopwatch
+## 3. Strap Clock
 - The stopwatch feature allows users to measure elapsed time accurately, with precision down to milliseconds.
 - Users can start, stop, and reset the stopwatch with intuitive controls, making it ideal for timing activities such as workouts, cooking, or sporting events.
 - Additional functionalities may include lap timing, split timing, and the ability to save and share recorded time intervals for future reference or analysis.
+
+## 4. Background Image 
+- The background-image property sets one or more background images for an element.
+By default, a background-image is placed at the top-left corner of an element, and repeated both vertically and horizontally.
+  
 ## Technology Stack
 
-> Language      : Dart
+> Language     : Dart
 
 > Tools        : Android Studio
 
@@ -40,7 +45,6 @@
 <img src = "https://github.com/parth7192/clock_application/assets/142138451/e69704a1-563d-4239-a00b-1324de2feb8b" width = "200">
 
 <img src = "https://github.com/parth7192/clock_application/assets/142138451/ff58d531-5b33-44e9-bec5-964c2a06a483" width = "200">
-
 
 
 ## Getting Started
