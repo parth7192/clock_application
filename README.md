@@ -1,4 +1,7 @@
 # :alarm_clock: Clock App
+- Analog Mode  : Time Fusion features a beautifully rendered analog clock face that mimics the sophistication of traditional watch designs.
+- Digital Mode : For those who prefer a more straightforward approach to timekeeping, Time Fusion offers a digital display option.
+- Strap Watch  : Time Fusion incorporates the convenience of strap watches by allowing users to set alarms, timers, and countdowns directly within the application.
 
 # :one: Digital Clock :iphone:
 - The digital clock feature displays the current time in a clear and easy-to-read format. 
