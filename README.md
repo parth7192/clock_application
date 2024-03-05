@@ -22,7 +22,7 @@
 - The background-image property sets one or more background images for an element.
 By default, a background-image is placed at the top-left corner of an element, and repeated both vertically and horizontally.
   
-# Technology Stack :high_brightness:
+# :dart: Technology Stack :high_brightness:
 
 > Language     : Dart
 
@@ -31,7 +31,7 @@ By default, a background-image is placed at the top-left corner of an element, a
 > Project Type : Flutter
 
 
-# Screenshots :camera:
+# :spades: Screenshots :camera:
 
 <img src = "https://github.com/parth7192/clock_application/assets/142138451/c8c89772-d53c-4621-a552-e84269b82d1b" width = "200">
 
