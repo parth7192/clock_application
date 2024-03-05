@@ -28,7 +28,7 @@ By default, a background-image is placed at the top-left corner of an element, a
 > Project Type : Flutter
 
 
-# Screenshots :joy_cat:
+# Screenshots :camera:
 
 <img src = "https://github.com/parth7192/clock_application/assets/142138451/c8c89772-d53c-4621-a552-e84269b82d1b" width = "200">
 
