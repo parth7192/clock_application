@@ -15,7 +15,7 @@
 - Users can start, stop, and reset the stopwatch with intuitive controls, making it ideal for timing activities such as workouts, cooking, or sporting events.
 - Additional functionalities may include lap timing, split timing, and the ability to save and share recorded time intervals for future reference or analysis.
 
-# :four: Background Image :camera:
+# :four: Background Image :flower_playing_cards:
 - The background-image property sets one or more background images for an element.
 By default, a background-image is placed at the top-left corner of an element, and repeated both vertically and horizontally.
   
