@@ -1,25 +1,25 @@
 # :alarm_clock: Clock App
 
-# 1. Digital Clock
+# :one: Digital Clock :iphone:
 - The digital clock feature displays the current time in a clear and easy-to-read format. 
 - Users can customize the appearance of the digital clock, such as choosing between 12-hour and 24-hour formats, selecting different fonts, and adjusting the color scheme to suit their preferences.
 - Additional functionalities may include displaying the date, enabling alarms, and integrating with other apps or services for time-related notifications.
 
-# 2. Analogue Clock
+# :two: Analogue Clock :watch:
 - The analogue clock feature provides users with a traditional representation of time using hour, minute, and second hands on a clock face.
 - Users can choose from a variety of clock face designs, ranging from classic to modern styles, and customize the size and placement of the analogue clock widget on their device.
 - Interactive features may include the ability to set alarms or reminders directly from the analogue clock interface, as well as options for adjusting the clock's accuracy and synchronization with external time sources.
 
-# 3. Strap Clock
+# :three: Strap Clock :dvd:
 - The stopwatch feature allows users to measure elapsed time accurately, with precision down to milliseconds.
 - Users can start, stop, and reset the stopwatch with intuitive controls, making it ideal for timing activities such as workouts, cooking, or sporting events.
 - Additional functionalities may include lap timing, split timing, and the ability to save and share recorded time intervals for future reference or analysis.
 
-# 4. Background Image 
+# :four: Background Image :camera:
 - The background-image property sets one or more background images for an element.
 By default, a background-image is placed at the top-left corner of an element, and repeated both vertically and horizontally.
   
-# Technology Stack
+# Technology Stack :high_brightness:
 
 > Language     : Dart
 
@@ -28,7 +28,7 @@ By default, a background-image is placed at the top-left corner of an element, a
 > Project Type : Flutter
 
 
-# Screenshots
+# Screenshots :joy_cat:
 
 <img src = "https://github.com/parth7192/clock_application/assets/142138451/c8c89772-d53c-4621-a552-e84269b82d1b" width = "200">
 
