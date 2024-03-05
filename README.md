@@ -1,4 +1,4 @@
-# Clock App
+⏰ :alarm_clock:
 
 # 1. Digital Clock
 - The digital clock feature displays the current time in a clear and easy-to-read format. 
@@ -51,10 +51,3 @@ By default, a background-image is placed at the top-left corner of an element, a
 <img src = "https://github.com/parth7192/clock_application/assets/142138451/3a5ed6e7-ce9a-4ff1-9667-793103e9e2b7" width = "200">
 
 <img src = "https://github.com/parth7192/clock_application/assets/142138451/3806e231-dd5a-46b4-9521-3c968ced07b0" width = "200">
-
-# Getting Started
-
-To run this application locally, follow these steps:
-
-Make sure you have Flutter installed on your machine. If not, follow the installation instructions.
-
