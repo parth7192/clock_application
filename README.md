@@ -1,4 +1,4 @@
-⏰ :alarm_clock:
+# :alarm_clock: Clock App
 
 # 1. Digital Clock
 - The digital clock feature displays the current time in a clear and easy-to-read format. 
